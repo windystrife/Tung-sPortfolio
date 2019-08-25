@@ -26,9 +26,8 @@
 
 - ###### Emmersive Experiential Experience
 
- - (https://www.youtube.com/watch?v=uCTFyGY7NPQ&feature=youtu.be)
- - (https://drive.google.com/file/d/1ZXvPeZ0-JEnE4izthlKK5Yhd1i4G8qV-/view)
-
+ - https://www.youtube.com/watch?v=uCTFyGY7NPQ&feature=youtu.be
+ - https://drive.google.com/file/d/1ZXvPeZ0-JEnE4izthlKK5Yhd1i4G8qV-/view
 
 
 
