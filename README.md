@@ -38,7 +38,8 @@
  - https://www.youtube.com/watch?v=QIfbRKeB0lI&feature=youtu.be
 
 
-- ###### Game : Monopoly Explore! SG
-https://play.google.com/store/apps/details?id=com.FirstWave.Monopoly&hl=vi&gl=US
-https://apps.apple.com/us/app/monopoly-explore-sg/id1548244772
+- ###### Game : 
+  Monopoly Explore! SG
+- https://play.google.com/store/apps/details?id=com.FirstWave.Monopoly&hl=vi&gl=US
+- https://apps.apple.com/us/app/monopoly-explore-sg/id1548244772
 
