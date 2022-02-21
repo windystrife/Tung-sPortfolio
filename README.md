@@ -16,7 +16,7 @@
  - [PentHouse Metropolis Real Estate VR](https://github.com/windystrife/PentHouseMetropolisRealEstateVR)
  - [MissionX] (https://www.oculus.com/experiences/quest/4131796396883703) 
 
-- ###### AR:
+- ###### AR: (outsoursing)
  - [The Chintz Bar ARKit](https://apps.apple.com/app/id1326627245)
  - [The Chintz Bar ARCore](https://play.google.com/store/apps/details?id=com.Chintz.TheChintzBar)
  - [Plymouth-2020-Mayflower-400-ARCore](https://play.google.com/store/apps/details?id=com.lindowlabs.MayflowerPortalAR)
