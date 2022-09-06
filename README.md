@@ -46,3 +46,8 @@
 Web - 3D (babylonjs) : https://vimotvietnamtatthang.vn/
 
 Invetory and minimap: https://www.linkedin.com/feed/update/urn:li:activity:6919526784933773312/
+
+_ SIPHERIAN ODYSSEY: https://sipher.xyz/
+https://www.youtube.com/watch?v=ogPccACoVUY
+_ Build Core System Gameplay from GAS(Gameplay ability System), Game Feature in Unreal Engine 
+_ Jenkin CI/CD 
