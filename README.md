@@ -17,13 +17,15 @@
  - [MissionX] (https://www.oculus.com/experiences/quest/4131796396883703) 
 
 - ###### AR: (outsoursing)
- - [The Chintz Bar ARKit](https://apps.apple.com/app/id1326627245)
- - [The Chintz Bar ARCore](https://play.google.com/store/apps/details?id=com.Chintz.TheChintzBar)
- - [Plymouth-2020-Mayflower-400-ARCore](https://play.google.com/store/apps/details?id=com.lindowlabs.MayflowerPortalAR)
- - [Plymouth-2020-Mayflower-400-ARKit](https://apps.apple.com/us/app/plymouth-2020-mayflower-400-ar/id1345601816)
- - [Dojo AR - IOS](https://apps.apple.com/us/app/dojo-ar/id1437725755)
- - [Dojo AR - Android](https://play.google.com/store/apps/details?id=com.lindowlabs.japanAR)
+ - [The Chintz Bar ARKit](https://www.youtube.com/watch?v=cg3DA6RaSck)
+ - [The Chintz Bar ARCore](https://www.youtube.com/watch?v=cg3DA6RaSck)
+ - [Plymouth-2020-Mayflower-400-ARCore](https://www.youtube.com/watch?v=cg3DA6RaSck)
+ - [Plymouth-2020-Mayflower-400-ARKit](https://www.youtube.com/watch?v=cg3DA6RaSck)
+ - [Dojo AR - IOS](https://www.youtube.com/watch?v=zp491iGd3TY)
  - https://apps.apple.com/vn/app/sun-melodia/id1447731204?l=vi
+ - AR portal (https://www.youtube.com/watch?v=Ybnn0_SF6rM)
+
+  
 
 
 
