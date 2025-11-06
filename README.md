@@ -56,15 +56,17 @@ Web - 3D (babylonjs) : https://vimotvietnamtatthang.vn/
 
 Invetory and minimap: https://www.linkedin.com/feed/update/urn:li:activity:6919526784933773312/
 
-_  <img width="1633" height="1145" alt="image" src="https://github.com/user-attachments/assets/8b5b5f80-536d-4158-8680-258a38fef7c9" />
+ 
 
-SIPHERIAN ODYSSEY: [https://sipher.xyz/](https://playsipher.com/#welcome)
+_ SIPHERIAN ODYSSEY: [https://sipher.xyz/](https://playsipher.com/#welcome)
 https://www.youtube.com/watch?v=ogPccACoVUY
 
-Build Core System Gameplay from GAS(Gameplay ability System),Game Feature in Unreal Engine 5 , Optimization
+Build Core System Gameplay from GAS(Gameplay ability System), C++, Blueprints Game Feature in Unreal Engine 5 , Optimization
 Jenkin CI/CD 
+<img width="1633" height="1145" alt="image" src="https://github.com/user-attachments/assets/8b5b5f80-536d-4158-8680-258a38fef7c9" />
 
+_ Zone Nine Nihilation: Technincal Game Director - Perforce - Gameplay Ability System , Optimization 
 
-_ <img width="2158" height="1210" alt="image" src="https://github.com/user-attachments/assets/a4a143a5-f030-4f60-b7b7-08bdeb7292cf" />
+<img width="2158" height="1210" alt="image" src="https://github.com/user-attachments/assets/a4a143a5-f030-4f60-b7b7-08bdeb7292cf" />
 
 https://store.epicgames.com/en-US/p/zone-nine-nihilation-dd79bd
