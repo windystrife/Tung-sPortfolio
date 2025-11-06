@@ -16,7 +16,7 @@
  - [PentHouse Metropolis Real Estate VR](https://github.com/windystrife/PentHouseMetropolisRealEstateVR)
  <img width="1816" height="968" alt="image" src="https://github.com/user-attachments/assets/8f3e1211-105f-44c2-878c-4f8c761032ec" />
 
- - [MissionX] (https://www.oculus.com/experiences/quest/4131796396883703) 
+ - [MissionX] (https://www.oculus.com/experiences/quest/4131796396883703)  (Early Development Only) 
  <img width="1785" height="1187" alt="image" src="https://github.com/user-attachments/assets/50eacf6e-f6f5-4e00-be8c-881caf26d74b" />
 
 
