@@ -54,6 +54,9 @@ _ https://vimeo.com/1086721309?fl=pl&fe=sh
 
 Web - 3D (babylonjs) : https://vimotvietnamtatthang.vn/
 
+<img width="1263" height="637" alt="image" src="https://github.com/user-attachments/assets/d61c86ad-25dd-4606-a1fb-cf634ad92d7f" />
+
+
 Invetory and minimap: https://www.linkedin.com/feed/update/urn:li:activity:6919526784933773312/
 
  
